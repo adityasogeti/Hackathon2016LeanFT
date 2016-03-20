@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LeanFTTests")]
+[assembly: AssemblyTitle("Hackathon2016LeanFT.LeanFTTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LeanFTTests")]
+[assembly: AssemblyProduct("Hackathon2016LeanFT.LeanFTTests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d1123d19-ab99-4f81-8d93-881f95343ec5")]
+[assembly: Guid("8782d69b-e710-46ce-9fa9-13a43a77a18f")]
 
 // Version information for an assembly consists of the following four values:
 //

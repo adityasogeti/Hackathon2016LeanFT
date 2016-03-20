@@ -4,7 +4,7 @@ using HP.LFT.SDK;
 using HP.LFT.Verifications;
 using HP.LFT.SDK.Web;
 
-namespace LeanFTTests
+namespace Hackathon2016LeanFT.LeanFTTests
 {
     [TestClass]
     public class LeanFtTest : UnitTestClassBase<LeanFtTest>
@@ -14,7 +14,6 @@ namespace LeanFTTests
         public static void ClassInitialize(TestContext context)
         {
             GlobalSetup(context);
-
         }
 
         [TestInitialize]
@@ -100,7 +99,6 @@ namespace LeanFTTests
             {
                 Reporter.ReportEvent("Look for LeanFT on Lean2Automate", e.Message);
             }
-
         }
 
         [TestCleanup]

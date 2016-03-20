@@ -7,7 +7,7 @@ using HP.LFT.Report;
 using HP.LFT.UnitTesting;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LeanFTTests
+namespace Hackathon2016LeanFT.LeanFTTests
 {
     [TestClass]
     public abstract class UnitTestClassBase<TDerive> : UnitTestBase where TDerive : UnitTestClassBase<TDerive>, new()

@@ -5,12 +5,12 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D1123D19-AB99-4F81-8D93-881F95343EC5}</ProjectGuid>
+    <ProjectGuid>{8782D69B-E710-46CE-9FA9-13A43A77A18F}</ProjectGuid>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LeanFTTests</RootNamespace>
-    <AssemblyName>LeanFTTests</AssemblyName>
+    <RootNamespace>Hackathon2016LeanFT.LeanFTTests</RootNamespace>
+    <AssemblyName>Hackathon2016LeanFT.LeanFTTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
