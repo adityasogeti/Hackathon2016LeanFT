@@ -104,6 +104,7 @@ namespace Hackathon2016LeanFT.LeanFTTests
         [TestCleanup]
         public void TestCleanup()
         {
+            browser.Close();
         }
 
         [ClassCleanup]
